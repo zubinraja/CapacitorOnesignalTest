@@ -1,0 +1,15 @@
+{
+	"appId": "io.appaxion.test",
+	"appName": "captest",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
+	}
+}
